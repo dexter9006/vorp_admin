@@ -7,7 +7,7 @@ Config = {
     CanOpenMenuWhenDead = true, -- if true any staff can open menu when dead, !WARNING! staff can abuse this to get revived
 
     ---------------------- NO CLIP ----------------------
-    ShowControls = false,
+    ShowControls = true,
     Controls = {
 
         goUp = 0xDE794E3E, -- Q
