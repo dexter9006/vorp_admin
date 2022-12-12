@@ -114,7 +114,4 @@ Config = {
         Clearitems = "",
         Clearweapons = "",
     }
-
-
-
 }
